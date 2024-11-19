@@ -1,0 +1,14 @@
+C:\Users\meshok\source\repos\fsdfssd\bin\Debug\fsdfssd.exe.config
+C:\Users\meshok\source\repos\fsdfssd\bin\Debug\fsdfssd.exe
+C:\Users\meshok\source\repos\fsdfssd\bin\Debug\fsdfssd.pdb
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\fsdfssd.csproj.AssemblyReference.cache
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\MainWindow.g.cs
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\App.g.cs
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\fsdfssd_MarkupCompile.cache
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\MainWindow.baml
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\fsdfssd.g.resources
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\fsdfssd.Properties.Resources.resources
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\fsdfssd.csproj.GenerateResource.cache
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\fsdfssd.csproj.CoreCompileInputs.cache
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\fsdfssd.exe
+C:\Users\meshok\source\repos\fsdfssd\obj\Debug\fsdfssd.pdb
