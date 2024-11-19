@@ -26,17 +26,17 @@ namespace fsdfssd
                     string triangleType;
 
                     if (a == b && b == c)
-                        triangleType = "Ravnostoroni treugolnik";
+                        triangleType = "Равносторонний треугольник";
                     else if (a == b || b == c || a == c)
-                        triangleType = "Ravnobedreni treugolnik";
+                        triangleType = "Ранвобедренный треугольник";
                     else
-                        triangleType = "Rasnostoroni treugolnik";
+                        triangleType = "Разносторонний треугольник";
 
-                    ResultText.Text = $"Polucheni treugolnik: {triangleType}";
+                    ResultText.Text = $"Полученный треугольник: {triangleType}";
                 }
                 else
                 {
-                    ResultText.Text = "treugolnik s takimi storonami ne sushestvuet!";
+                    ResultText.Text = "треугольник с такими сторонами не существует!";
                 }
 
 
@@ -44,11 +44,11 @@ namespace fsdfssd
             }
             catch (FormatException)
             {
-                MessageBox.Show("Please, Vvedite korrektnie CELIE chisla!", "Oshibka vvoda", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Подалуйста, введите  целые числа!", "ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
             }
             catch (OverflowException)
             {
-                MessageBox.Show("Slishkom bolshie chisla", "Oshibka vvoda", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Слишком больште числа", "ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
     }
